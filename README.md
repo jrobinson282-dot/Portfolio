@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) student at Monash University with a strong passion for mechanical design, finite element analysis (FEA), and hands-on rapid prototyping.
 
-📫 **Contact:** [Jrobinson282@icloud.com](mailto:Jrobinson282@icloud.com) | [LinkedIn](https://www.linkedin.com/in/james-robinson-282b2142)
+📫 **Contact:** [Jrobinson282@icloud.com](mailto:Jrobinson282@icloud.com) | [LinkedIn](www.linkedin.com/in/james-robinson-282b21425)
 
 ---
 

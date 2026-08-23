@@ -8,7 +8,7 @@ Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) stu
 
 ## 🛠️ Technical Skills
 * **CAD & CAE:** SolidWorks (CSWA Certified), Ansys, iNoise
-* **Manufacturing & Prototyping:** FDM 3D Printing, Rapid Prototyping, Design for Manufacturing (DfM)
+* **Manufacturing & Prototyping:** FDM 3D Printing
 * **Programming:** MATLAB, Python
 * **Core Competencies:** Dynamics, Thermodynamics, Fluid Dynamics, Solid Mechanics, Material Selection
 
@@ -17,12 +17,12 @@ Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) stu
 ## 🚀 Featured Projects
 
 ### 1. Warman Design & Build Competition Robot
-* **Overview:** Collaborated within a multidisciplinary team to design, fabricate, and test an autonomous competition robot, placing **5th out of 100 teams** at Monash University (2025).
+* **Overview:** Collaborated within a team to design, fabricate, and test an autonomous competition robot, placing **5th out of 100 teams** at Monash University (2025).
 * **The Engineering Process:** 
   * Modeled complex assemblies and individual components in SolidWorks, ensuring strict adherence to competition rules and spatial constraints.
   * Bridged the digital-to-physical gap by integrating 3D-printed components with structural timber and custom metal brackets.
   * Authored official technical engineering drawings and documentation for part fabrication.
-* **Media / Renders:** *(Drop an image of your robot or CAD model here: `![Warman Robot](images/warman_robot.png)`)*
+* **Report:** *[Warman Comp Report](https://github.com/jrobinson282-dot/Portfolio/blob/96fb91b436d0907e3dd8d900757c6e7c114a5466/Warman%20Comp%20Report.pdf)*
 
 ---
 

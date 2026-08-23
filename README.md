@@ -40,7 +40,7 @@ Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) stu
 ### 3. Solar PV Battery Report 
 * **Overview:** Compare Battery sizes in search for economic feasibility 
 * **Highlights:** Utilizing excel to run calculations and simulate different scenarios by changing key parameters.
-* **Report:** *Solar Energy PV Battery Assignment.pdf*
+* **Report:** *[Solar Energy PV Battery Assignment.pdf](https://github.com/jrobinson282-dot/Portfolio/blob/10638a43700f8d8d5d7e26c1ba159ba99800a5df/RSE3141%20Solar%20Energy%20Assignment%203%20-%20James%20Robinson%2034988041.pdf)*
 
 ---
 ### 4. Custom Lamp | Christmas Present

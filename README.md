@@ -40,7 +40,7 @@ Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) stu
 ### 3. Solar PV Battery Report 
 * **Overview:** Compare Battery sizes in search for economic feasibility 
 * **Highlights:** Utilizing excel to run calculations and simulate different scenarios by changing key parameters.
-* **Report:** *(Drop a photo of your printed parts here: `![3D Prints](images/3d_print_part.png)`)*
+* **Report:** *Solar Energy PV Battery Assignment.pdf*
 
 ---
 ### 4. Custom Lamp | Christmas Present

@@ -46,7 +46,7 @@ Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) stu
 ---
 ### 4. Custom Lamp | Christmas Present
 * **Overview:** A friend loved a matchstick inspired lamp they saw online so I decided to make it!
-* **Highlights:** Creativity in downsizing the Ikea floor Lamp into a desktop lamp was challenging but using creativity was able to turn ping pong balls into 'matchheads' which gave a nice subtle glow.
+* **Highlights:** Creativity in downsizing the Ikea floor Lamp into a desktop lamp was challenging but using creativity was able to turn ping pong balls into 'matchheads' which gave a nice subtle glow. This project was a really fun outlet that I loved working on in the break before Christmas as I got to use my practical engineering skills like basic circuits, soldering and general problem solving.
 * **Report:** *(Drop a photo of your printed parts here: `![3D Prints](images/3d_print_part.png)`)*
 
 ## 📄 Resume

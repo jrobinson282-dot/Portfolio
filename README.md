@@ -37,12 +37,16 @@ Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) stu
 
 ---
 
-### 3. Rapid Prototyping & Maker Projects
-* **Overview:** Self-directed engagement in additive manufacturing workflows and mechanical assembly fabrication.
-* **Highlights:** Utilizing FDM 3D printing workflows (PLA/ABS) to iterate through mechanical components, functional test-fits, and structural prop-making designs.
-* **Media / Renders:** *(Drop a photo of your printed parts here: `![3D Prints](images/3d_print_part.png)`)*
+### 3. Solar PV Battery Report | Monash University 
+* **Overview:** Compare Battery sizes in search for economic feasibility 
+* **Highlights:** Utilizing excel to run calculations and simulate different scenarios by changing key parameters.
+* **Report:** *(Drop a photo of your printed parts here: `![3D Prints](images/3d_print_part.png)`)*
 
 ---
+### 4. Custom Lamp | Christmas Present
+* **Overview:** A friend loved a matchstick inspired lamp they saw online so I decided to make it!
+* **Highlights:** Creativity in downsizing the Ikea floor Lamp into a desktop lamp was challenging but using creativity was able to turn ping pong balls into 'matchheads' which gave a nice subtle glow.
+* **Report:** *(Drop a photo of your printed parts here: `![3D Prints](images/3d_print_part.png)`)*
 
 ## 📄 Resume
 You can view or download my complete, up-to-date engineering resume [here via Google Docs](https://docs.google.com/document/d/1mWg-mCMJc_rDT6muW3lP6DjMu8J9PQEeyh4kskblo5I/edit?usp=sharing).

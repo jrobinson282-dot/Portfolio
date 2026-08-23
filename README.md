@@ -47,7 +47,8 @@ Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) stu
 ### 4. Custom Lamp | Christmas Present
 * **Overview:** A friend loved a matchstick inspired lamp they saw online so I decided to make it!
 * **Highlights:** Creativity in downsizing the Ikea floor Lamp into a desktop lamp was challenging but using creativity was able to turn ping pong balls into 'matchheads' which gave a nice subtle glow. This project was a really fun outlet that I loved working on in the break before Christmas as I got to use my practical engineering skills like basic circuits, soldering and general problem solving.
-* **Report:** *[Photo Documentation](https://github.com/jrobinson282-dot/Portfolio/blob/27e16c65c23cbe67adf2ec653404f0489724f8bc/IMG_1655.HEIC-compressed.pdf)*
+* **Progress Report:** *[Photo Documentation](https://github.com/jrobinson282-dot/Portfolio/blob/27e16c65c23cbe67adf2ec653404f0489724f8bc/IMG_1655.HEIC-compressed.pdf)*
+* **Final Product:** *[Photo](https://github.com/jrobinson282-dot/Portfolio/blob/f9c4b85978020afe3729461fbddafe98204513a4/IMG_1682.jpeg)*
 
 ## 📄 Resume
 You can view or download my complete, up-to-date engineering resume [here via Google Docs](https://docs.google.com/document/d/1mWg-mCMJc_rDT6muW3lP6DjMu8J9PQEeyh4kskblo5I/edit?usp=sharing).

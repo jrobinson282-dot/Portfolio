@@ -33,7 +33,8 @@ Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) stu
   * Performed **Finite Element Analysis (FEA)** in SolidWorks to evaluate safety factors, stress concentrations, and critical load points under operational stress.
   * Optimized component geometry to minimize material usage, weight, and manufacturing cost.
   * Managed cross-functional project timelines and task allocation.
-* **Media / Renders:** *[Machine Design Report](https://github.com/jrobinson282-dot/Portfolio/blob/f60df40e72bd45aa6f0aa2ca937f98695e492df9/Machine%20Design%20Report.docx.pdf)*
+* **Report** *[Machine Design Report](https://github.com/jrobinson282-dot/Portfolio/blob/f60df40e72bd45aa6f0aa2ca937f98695e492df9/Machine%20Design%20Report.docx.pdf)*
+* **Appendix** *[Drawing Appendix](https://github.com/jrobinson282-dot/Portfolio/blob/5da78d95ab1342115bd37fd503546346b6243031/Appendix%20C%20Drawings-305.pdf)*
 
 ---
 

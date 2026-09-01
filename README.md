@@ -14,6 +14,11 @@ Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) stu
 
 ---
 
+## Resume
+You can view or download my complete, up-to-date engineering resume [here via Google Docs](https://docs.google.com/document/d/1mWg-mCMJc_rDT6muW3lP6DjMu8J9PQEeyh4kskblo5I/edit?usp=sharing).
+
+---
+
 ## Featured Projects
 
 ### 1. Phone mount for motorbike (Under construction)
@@ -59,5 +64,6 @@ Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) stu
 * **Progress Report:** *[Photo Documentation](https://github.com/jrobinson282-dot/Portfolio/blob/383a3db540ccf125e7143e2b0a7d23d9e25a5958/match%20lamp%20progress.pdf)*
 * **Final Product:** *[Photo](https://github.com/jrobinson282-dot/Portfolio/blob/f9c4b85978020afe3729461fbddafe98204513a4/IMG_1682.jpeg)*
 
-## Resume
-You can view or download my complete, up-to-date engineering resume [here via Google Docs](https://docs.google.com/document/d/1mWg-mCMJc_rDT6muW3lP6DjMu8J9PQEeyh4kskblo5I/edit?usp=sharing).
+
+
+

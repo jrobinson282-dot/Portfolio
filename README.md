@@ -16,7 +16,14 @@ Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) stu
 
 ## 🚀 Featured Projects
 
-### 1. Warman Design & Build Competition Robot
+### 1. Phone mount for motorbike
+* **Overview:** Worked together in a team to create a phone mount for a road going motorbike or bicycle. Still working on this one so stay tuned for updates. Finished the preliminary report and are now working on CFD and progressing to manufacturing the model in Nylon, beyond the prototyping in PETG.
+* **The Engineering Process:** 
+  * Modeled the components in SolidWorks and 3D printed them finding many errors in initial designs and going back to rework and fix them
+  * Ran FEA models in Ansys to simulate load cases
+* **Preliminary Report:** *
+
+### 2. Warman Design & Build Competition Robot
 * **Overview:** Collaborated within a team to design, fabricate, and test an autonomous competition robot, placing **5th out of 100 teams** at Monash University (2025).
 * **The Engineering Process:** 
   * Modeled complex assemblies and individual components in SolidWorks, ensuring strict adherence to competition rules and spatial constraints.
@@ -26,7 +33,7 @@ Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) stu
 
 ---
 
-### 2. Plastic Bottle Shredder (Machine Design Project)
+### 3. Plastic Bottle Shredder (Machine Design Project)
 * **Overview:** Designed and modeled a mechanical plastic bottle shredder intended to recycle waste polymers into usable 3D printer filament.
 * **The Engineering Process:**
   * Conducted analytical hand calculations to determine expected mechanical loads and torque requirements.
@@ -38,13 +45,13 @@ Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) stu
 
 ---
 
-### 3. Solar PV Battery Report 
+### 4. Solar PV Battery Report 
 * **Overview:** Compare Battery sizes in search for economic feasibility 
 * **Highlights:** Utilizing excel to run calculations and simulate different scenarios by changing key parameters.
 * **Report:** *[Solar Energy PV Battery Assignment.pdf](https://github.com/jrobinson282-dot/Portfolio/blob/10638a43700f8d8d5d7e26c1ba159ba99800a5df/RSE3141%20Solar%20Energy%20Assignment%203%20-%20James%20Robinson%2034988041.pdf)*
 
 ---
-### 4. Custom Lamp | Christmas Present
+### 5. Custom Lamp | Christmas Present
 * **Overview:** A friend loved a matchstick inspired lamp they saw online so I decided to make it!
 * **Highlights:** Creativity in downsizing the Ikea floor Lamp into a desktop lamp was challenging but using creativity was able to turn ping pong balls into 'matchheads' which gave a nice subtle glow. This project was a really fun outlet that I loved working on in the break before Christmas as I got to use my practical engineering skills like basic circuits, soldering and general problem solving.
 * **Progress Report:** *[Photo Documentation](https://github.com/jrobinson282-dot/Portfolio/blob/383a3db540ccf125e7143e2b0a7d23d9e25a5958/match%20lamp%20progress.pdf)*

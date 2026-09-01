@@ -22,6 +22,8 @@ Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) stu
   * Modeled the components in SolidWorks and 3D printed them finding many errors in initial designs and going back to rework and fix them
   * Ran FEA models in Ansys to simulate load cases
 * **Preliminary Report:** *
+  
+---
 
 ### 2. Warman Design & Build Competition Robot
 * **Overview:** Collaborated within a team to design, fabricate, and test an autonomous competition robot, placing **5th out of 100 teams** at Monash University (2025).

@@ -16,12 +16,12 @@ Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) stu
 
 ## Featured Projects
 
-### 1. Phone mount for motorbike
+### 1. Phone mount for motorbike (Under construction)
 * **Overview:** Worked together in a team to create a phone mount for a road going motorbike or bicycle. Still working on this one so stay tuned for updates. Finished the preliminary report and are now working on CFD and progressing to manufacturing the model in Nylon, beyond the prototyping in PETG.
 * **The Engineering Process:** 
   * Modeled the components in SolidWorks and 3D printed them finding many errors in initial designs and going back to rework and fix them
   * Ran FEA models in Ansys to simulate load cases
-* **Preliminary Report:** *
+* **Preliminary Report:** *[Prelimary Report (error loading in images)](https://github.com/jrobinson282-dot/Portfolio/blob/e4ad08a87088d5bdf3e70a5de1f3cfe1b923ec74/Concept%20Design%20Report%20-%20Team%2047%20(1)_compressed.pdf)*
   
 ---
 

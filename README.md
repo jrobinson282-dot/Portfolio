@@ -21,7 +21,7 @@ You can view or download my complete, up-to-date engineering resume [here via Go
 
 ## Featured Projects
 
-### 1. Phone mount for motorbike (Under construction)
+### 1. Phone Mount for Motorbike (Under construction)
 * **Overview:** Worked together in a team to create a phone mount for a road going motorbike or bicycle. Still working on this one so stay tuned for updates. Finished the preliminary report and are now working on CFD and progressing to manufacturing the model in Nylon, beyond the prototyping in PETG.
 * **The Engineering Process:** 
   * Modeled the components in SolidWorks and 3D printed them finding many errors in initial designs and going back to rework and fix them

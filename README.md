@@ -2,11 +2,11 @@
 
 Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) student at Monash University with a strong passion for mechanical design, finite element analysis (FEA), and hands-on rapid prototyping.
 
-📫 **Contact:** [Jrobinson282@icloud.com](mailto:Jrobinson282@icloud.com) | [LinkedIn](https://au.linkedin.com/in/james-robinson-282b21425)
+**Contact:** [Jrobinson282@icloud.com](mailto:Jrobinson282@icloud.com) | [LinkedIn](https://au.linkedin.com/in/james-robinson-282b21425)
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 * **CAD & CAE:** SolidWorks (CSWA Certified), Ansys, iNoise
 * **Manufacturing & Prototyping:** FDM 3D Printing
 * **Programming:** MATLAB, Python
@@ -14,7 +14,7 @@ Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) stu
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. Phone mount for motorbike
 * **Overview:** Worked together in a team to create a phone mount for a road going motorbike or bicycle. Still working on this one so stay tuned for updates. Finished the preliminary report and are now working on CFD and progressing to manufacturing the model in Nylon, beyond the prototyping in PETG.
@@ -57,5 +57,5 @@ Welcome to my portfolio! I am a third-year Bachelor of Engineering (Honours) stu
 * **Progress Report:** *[Photo Documentation](https://github.com/jrobinson282-dot/Portfolio/blob/383a3db540ccf125e7143e2b0a7d23d9e25a5958/match%20lamp%20progress.pdf)*
 * **Final Product:** *[Photo](https://github.com/jrobinson282-dot/Portfolio/blob/f9c4b85978020afe3729461fbddafe98204513a4/IMG_1682.jpeg)*
 
-## 📄 Resume
+## Resume
 You can view or download my complete, up-to-date engineering resume [here via Google Docs](https://docs.google.com/document/d/1mWg-mCMJc_rDT6muW3lP6DjMu8J9PQEeyh4kskblo5I/edit?usp=sharing).

@@ -1,6 +1,6 @@
 # James Robinson - Mechanical Engineering Portfolio
 
-I’m a third-year Mechanical Engineering student at Monash University (**WAM 78**). I love bridging the gap between digital design and physical hardware—taking an idea from a blank CAD screen, pushing it through structural analysis, and fabricating it into something that actually works in the real world.
+I’m a third-year Mechanical Engineering student at Monash University (**WAM 78.028**). I love bridging the gap between digital design and physical hardware—taking an idea from a blank CAD screen, pushing it through structural analysis, and fabricating it into something that actually works in the real world.
 
 **Contact:** [Jrobinson282@icloud.com](mailto:Jrobinson282@icloud.com) | [LinkedIn](https://au.linkedin.com/in/james-robinson-282b2142)
 

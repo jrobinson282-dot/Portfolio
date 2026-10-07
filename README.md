@@ -8,13 +8,13 @@ I’m a third-year Mechanical Engineering student at Monash University (WAM 78).
 
 ## Technical Skills
 - **CAD & CAE:** SolidWorks (CSWA Certified), Ansys, iNoise
-- **Manufacturing & Prototyping:** FDM 3D Printing, Soldering, Hands-on Assembly
+- **Manufacturing & Prototyping:** FDM 3D Printing
 - **Programming:** MATLAB, Python
-- **Core Competencies:** Dynamics, Thermodynamics, Fluid Dynamics, Solid Mechanics, Material Selection
+- **Core Competencies:** Dynamics, Thermodynamics, Fluid Dynamics, Solid Mechanics, Material Selection, Acoustics
 
 ---
 
-## Resume & Profile
+## Resume 
 You can view or download my complete engineering resume [here via Google Docs](https://docs.google.com/document/d/1mWg-mCMJc_rDT6muW3lP6DjMu8J9PQEeyh4kskblo5I/edit?usp=sharing).
 
 ---
@@ -23,7 +23,7 @@ You can view or download my complete engineering resume [here via Google Docs](h
 
 ### 1. Motorbike Phone Mount: Iterating Under Real-World Constraints
 * **The Challenge:** Designing a phone mount for a vibrating road bike or motorcycle sounds simple, but keeping a device secure against constant high-frequency vibration and wind shear is a tough mechanical problem. 
-* **The Journey:** My team started with a standard concept, but our initial FDM 3D prints in PETG revealed massive weak points under clamping stress. Rather than guessing, we took it back to the screen: we ran FEA simulations in Ansys to pinpoint stress concentrations, reworked the geometry in SolidWorks, and transitioned our prototyping toward a more resilient material (Nylon) while analyzing aerodynamic forces via CFD. 
+* **The Journey:** My team started with a standard concept, but our initial FDM 3D prints in PETG revealed massive weak points under clamping stress. Rather than guessing, we took it back to the screen: we ran FEA simulations in Ansys to pinpoint stress concentrations, reworked the geometry in SolidWorks, and transitioned our prototyping toward a more resilient material (Nylon) while analyzing aerodynamic forces via CFD, and finding natural frequencies in modal analysis. 
 * **Current Status:** Preliminary report complete; currently moving from digital iteration to final physical manufacturing.
 * **Reports & Files:** *[Preliminary Design Report](https://github.com/jrobinson282-dot/Portfolio/blob/e4ad08a87088d5bdf3e70a5de1f3cfe1b923ec74/Concept%20Design%20Report%20-%20Team%2047%20(1)_compressed.pdf)*
 
